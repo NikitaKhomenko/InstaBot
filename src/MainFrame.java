@@ -27,7 +27,7 @@ public class MainFrame extends JFrame implements KeyListener{
 		botLiker = new Bot();
 		addKeyListener(this);
 		
-		setTitle("RedBall");
+		setTitle("InstaLike");
 		setSize(new Dimension(400, 300));
 		setLocationRelativeTo(null);
 		
